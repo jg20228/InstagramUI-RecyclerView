@@ -1,3 +1,5 @@
 # InstagramUI + RecyclerView
 
-![UI]https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FrY446%2FbtqFYZs1Gjk%2F47N2TcFsiZVy0FIkhnjUAK%2Fimg.gif
+![ezgif-6-960bff69a557](https://user-images.githubusercontent.com/62128942/88253928-82fb2000-ccee-11ea-8aeb-966a6c6aa617.gif)
+
+
