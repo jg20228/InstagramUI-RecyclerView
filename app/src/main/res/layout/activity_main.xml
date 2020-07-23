@@ -8,18 +8,12 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    <LinearLayout
-        android:gravity="top"
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rv_profile"
+        android:orientation="horizontal"
         android:layout_width="match_parent"
-        android:layout_height="100dp"
-        android:orientation="horizontal">
-
-        <include layout="@layout/layout_profile"/>
-        <include layout="@layout/layout_profile"/>
-        <include layout="@layout/layout_profile"/>
-        <include layout="@layout/layout_profile"/>
-        <include layout="@layout/layout_profile"/>
-    </LinearLayout>
+        android:layout_height="100dp">
+    </androidx.recyclerview.widget.RecyclerView>
 
     <View
         android:layout_width="match_parent"

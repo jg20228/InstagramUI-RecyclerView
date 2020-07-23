@@ -54,8 +54,6 @@ public class ContentAdapter extends RecyclerView.Adapter<ContentAdapter.MyViewHo
         private ImageView commentPic;
         private TextView commentText;
 
-        private ImageView postTime;
-
         public MyViewHolder(@NonNull View itemView) {
             super(itemView);
             myProfileText = itemView.findViewById(R.id.content_my_profile_text);
